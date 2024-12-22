@@ -1,4 +1,4 @@
-Here’s a concise and professional `README.md` for your portfolio project:
+
 
 ```markdown
 # My Portfolio
